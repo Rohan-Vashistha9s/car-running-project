@@ -24,7 +24,8 @@ body {
     top: -160px;
 }
 
-.track {
+.track 
+{
     height: 60vh;
     width: 800vw;
     background-image: url(track.png);
